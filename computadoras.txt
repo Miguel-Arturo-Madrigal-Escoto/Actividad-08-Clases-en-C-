@@ -1,0 +1,20 @@
+Desktop-Madrigal
+Windows 10 pro - 64 bits
+Ryzen 5 3600
+16
+Desktop-Cucei-05
+Windows 10 home - 64 bits
+Ryzen 3 3100
+32
+Desktop-Miguel
+Windows 10 home - 64 bits
+Ryzen 5 3400G
+8
+Desktop-Escoto
+Windows 10 pro - 64 bits
+Intel core i9
+16
+Desktop-Ciber
+Windows XP
+Intel core i3
+8
