@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// implementacion clase computadora Actividad10
+
 Computadora::Computadora(){}
 
 Computadora::Computadora(const string& nombreEquipo, const string& sistemaOperativo, const string& procesador, unsigned int ram){
